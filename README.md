@@ -4,16 +4,8 @@
 💻 Conhecimentos em HTML, CSS, JavaScript e Python  
 📚 Atualmente estudando JavaScript e desenvolvendo projetos para aprimorar minhas habilidades  
 🚀 Em busca da primeira oportunidade profissional na área de tecnologia  
-📍 Localizada em Santana de Parnaíba, SP  
+📍 Localizada em Osasco, SP  
 😄 Pronomes: ela/dela  
-
----
-
-## 💼 Projetos em destaque
-
-- [Portfólio Web Responsivo](https://github.com/Carol0021/portfolio-web)  
-- [To-do List com JavaScript](https://github.com/Carol0021/todo-list-js)  
-- [Análise de dados com Python](https://github.com/Carol0021/data-analysis-python)
 
 ---
 
@@ -59,7 +51,7 @@
 <a href="https://instagram.com/caaahdosreis" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://discord.gg/wagxzStdcR" target="_blank">
+<a href="https://discord.gg/carolinedosreis" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="mailto:contatorareiscaroline560@gmail.com" target="_blank">
